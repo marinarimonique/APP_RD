@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+automationName = "uiautomator2"
+deviceName = "S22 Ultra"
+app = "./app/app-debug.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
